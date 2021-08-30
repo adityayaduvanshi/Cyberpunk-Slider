@@ -2,3 +2,7 @@
 This slider was inspired by CD Project's new game - Cyberpunk 2077. It is made with HTML, CSS, and pure JS
 
 
+## Link 
+https://adityayaduvanshi.github.io/Cyberpunk-Slider/
+
+
